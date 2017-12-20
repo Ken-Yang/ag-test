@@ -1,5 +1,5 @@
 # Description
-Please integrate with RESTful API using any MVC frameworks (**Vue.js, React.js**) and implement the following features：
+Please integrate with RESTful API using MVC frameworks (**Only Vue.js and React.js**) and implement the following features：
 
 1. Login
 2. Logout
